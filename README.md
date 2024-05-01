@@ -7,5 +7,6 @@ In this project, I delved into the world of customer data analysis to uncover va
 Analyzed customer churn and retention factors to enhance customer loyalty.
 Explored the impact of variables such as tenure, number of products, active membership, and estimated salary on customer churn.
 Leveraged tools like Power BI for data visualization and SQL queries for data analysis.
+
 🛠️ Tools Used:SQL,Power BI,Excel
 
